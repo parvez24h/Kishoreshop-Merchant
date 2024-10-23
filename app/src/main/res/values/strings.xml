@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kishoreshop Merchant</string>
+    <string name="add_user">Add User</string>
+    <string name="user_details">User Details</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="submit">Submit</string>
+    <string name="user_image">User Image</string>
+</resources>
